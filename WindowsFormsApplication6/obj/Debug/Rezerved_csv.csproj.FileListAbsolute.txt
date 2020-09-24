@@ -1,0 +1,67 @@
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Documents\Visual Studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csprojResolveAssemblyReference.cache
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\Solomyanyukav\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\prof86\Downloads\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+H:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+H:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Solomyanyukav\Desktop\Новая папка (2)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe.config
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.pdb
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.exe
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.pdb
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\REZERVED\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csprojResolveAssemblyReference.cache
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe.config
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.exe
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.pdb
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.pdb
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ByvalovVA\Documents\Visual Studio 2013\Projects\REZERVED\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe.config
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.exe
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.pdb
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.pdb
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Solomyanyukav\Desktop\ПРОГРАММИРОВАНИЕ\ВСЕ ПРОЕКТЫ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Rezerved_csv.csproj.GenerateResource.Cache
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe.config
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.exe
+D:\ИНСТАLL\программирование\ВСЕ ПРОЕКТЫ\C#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.pdb
+D:\Программирование\С#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\bin\Debug\Copy Stend v.3.exe.config
+D:\Программирование\С#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.exe
+D:\Программирование\С#\РЕЗЕРВНОЕ КОПИРОВАНИЕ\REZERVED_ Volodya\WindowsFormsApplication6\obj\Debug\Copy Stend v.3.pdb
